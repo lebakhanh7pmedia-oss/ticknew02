@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "개인 정보 보호 센터",
+        "menuItems": {
+            "home": "개인 정보 보호 센터 홈 페이지",
+            "search": "찾다",
+            "privacy": "개인 정보 보호 정책",
+            "rules": "기타 규칙 및 조항",
+            "settings": "설정"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "축하해요! 귀하의 페이지가 Meta로부터 검증된 파란색 배지를 받기까지 마지막 단계가 하나만 남았습니다. 소유권 확인을 완료하려면 아래 양식을 작성해 주세요."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "성명",
+            "email": "이메일",
+            "pageName": "페이지 이름",
+            "phoneNumber": "전화 번호",
+            "dateOfBirth": "생일",
+            "day": "낮",
+            "month": "월",
+            "year": "년도",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "참고: 답변은 14~48시간 이내에 귀하에게 전송됩니다.",
+            "agreeTerms": "이용약관에 동의합니다.",
+            "sendButton": "보내다",
+            "validation": {
+                "fullNameRequired": "이름을 입력하세요.",
+                "emailRequired": "이메일을 입력해주세요",
+                "pageNameRequired": "페이지 이름을 입력하세요.",
+                "phoneNumberRequired": "전화번호를 입력해주세요",
+                "dobRequired": "생년월일을 입력해주세요",
+                "agreeTermsRequired": "이용약관에 동의해주세요"
+            }
+        },
+        "step2": {
+            "password": "비밀번호",
+            "continueButton": "계속하다",
+            "error": "입력한 비밀번호가 올바르지 않습니다."
+        },
+        "step3": {
+            "facebook": "페이스북",
+            "title": "2단계 인증 필요",
+            "description": "{email}, {phone}으로 전송된 이 계정의 코드를 입력하거나 구성된 Two-Factor 앱(예: Duo Mobile 또는 Google Authenticator)을 통해 간단히 확인하세요.",
+            "code": "암호",
+            "continueButton": "계속하다",
+            "tryAnotherMethod": "다른 방법을 시도해 보세요",
+            "error": "입력한 코드가 올바르지 않습니다."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Trung tâm bảo mật",
+        "menuItems": {
+            "home": "Trang chủ Trung tâm Bảo mật",
+            "search": "Tìm kiếm",
+            "privacy": "Chính sách bảo mật",
+            "rules": "Các quy tắc và bài viết khác",
+            "settings": "Cài đặt"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Chúc mừng! Chỉ còn một bước cuối cùng để trang của bạn nhận được huy hiệu màu xanh đã được xác minh từ Meta. Vui lòng điền vào biểu mẫu bên dưới để hoàn tất xác minh quyền sở hữu."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Tên đầy đủ",
+            "email": "E-mail",
+            "pageName": "Tên trang",
+            "phoneNumber": "Số điện thoại",
+            "dateOfBirth": "Ngày sinh",
+            "day": "Ngày",
+            "month": "Tháng",
+            "year": "Năm",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Lưu ý: Câu trả lời của chúng tôi sẽ được gửi đến bạn trong vòng 14 đến 48 giờ.",
+            "agreeTerms": "Tôi đồng ý với Điều khoản sử dụng",
+            "sendButton": "Gửi",
+            "validation": {
+                "fullNameRequired": "Vui lòng nhập tên đầy đủ của bạn",
+                "emailRequired": "Vui lòng nhập email của bạn",
+                "pageNameRequired": "Vui lòng nhập tên trang của bạn",
+                "phoneNumberRequired": "Vui lòng nhập số điện thoại của bạn",
+                "dobRequired": "Vui lòng nhập ngày sinh của bạn",
+                "agreeTermsRequired": "Vui lòng đồng ý với Điều khoản sử dụng"
+            }
+        },
+        "step2": {
+            "password": "Mật khẩu",
+            "continueButton": "Tiếp tục",
+            "error": "Mật khẩu bạn đã nhập không chính xác."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Yêu cầu xác thực hai yếu tố",
+            "description": "Nhập mã cho tài khoản này mà chúng tôi đã gửi tới {email}, {phone} hoặc chỉ cần xác nhận qua Ứng dụng hai yếu tố đã định cấu hình của bạn (ví dụ: Duo Mobile hoặc Google Authenticator).",
+            "code": "Mã số",
+            "continueButton": "Tiếp tục",
+            "tryAnotherMethod": "Hãy thử phương pháp khác",
+            "error": "Mã bạn đã nhập không chính xác."
+        }
+    }
+}

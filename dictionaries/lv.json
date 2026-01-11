@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privātuma centrs",
+        "menuItems": {
+            "home": "Privātuma centra mājas lapa",
+            "search": "Meklēt",
+            "privacy": "Privātuma politika",
+            "rules": "Citi noteikumi un panti",
+            "settings": "Iestatījumi"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Apsveicam! Ir atlicis tikai viens pēdējais solis, lai jūsu lapa saņemtu verificēto zilo emblēmu no Meta. Lūdzu, aizpildiet tālāk esošo veidlapu, lai pabeigtu īpašumtiesību verifikāciju."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Pilns vārds",
+            "email": "E-pasts",
+            "pageName": "Lapas nosaukums",
+            "phoneNumber": "Tālruņa numurs",
+            "dateOfBirth": "Dzimšanas datums",
+            "day": "diena",
+            "month": "Mēnesis",
+            "year": "gads",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Piezīme. Mūsu atbilde jums tiks nosūtīta 14–48 stundu laikā.",
+            "agreeTerms": "Es piekrītu lietošanas noteikumiem",
+            "sendButton": "Sūtīt",
+            "validation": {
+                "fullNameRequired": "Lūdzu, ievadiet savu pilno vārdu",
+                "emailRequired": "Lūdzu, ievadiet savu e-pastu",
+                "pageNameRequired": "Lūdzu, ievadiet savas lapas nosaukumu",
+                "phoneNumberRequired": "Lūdzu, ievadiet savu tālruņa numuru",
+                "dobRequired": "Lūdzu, ievadiet savu dzimšanas datumu",
+                "agreeTermsRequired": "Lūdzu, piekrītiet lietošanas noteikumiem"
+            }
+        },
+        "step2": {
+            "password": "Parole",
+            "continueButton": "Turpināt",
+            "error": "Ievadītā parole nav pareiza."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Nepieciešama divu faktoru autentifikācija",
+            "description": "Ievadiet šī konta kodu, ko nosūtījām uz {email}, {phone}, vai vienkārši apstipriniet, izmantojot savu konfigurēto divu faktoru lietotni (piem., Duo Mobile vai Google Authenticator).",
+            "code": "Kods",
+            "continueButton": "Turpināt",
+            "tryAnotherMethod": "Izmēģiniet citu metodi",
+            "error": "Ievadītais kods nav pareizs."
+        }
+    }
+}

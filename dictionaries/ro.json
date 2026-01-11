@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centrul de confidențialitate",
+        "menuItems": {
+            "home": "Pagina principală a Centrului de confidențialitate",
+            "search": "Căutare",
+            "privacy": "Politica de confidențialitate",
+            "rules": "Alte reguli și articole",
+            "settings": "Setări"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Felicitări! Mai rămâne un singur pas final pentru ca pagina ta să primească insigna albastră verificată de la Meta. Vă rugăm să completați formularul de mai jos pentru a finaliza verificarea calității de proprietar."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Numele complet",
+            "email": "E-mail",
+            "pageName": "Numele paginii",
+            "phoneNumber": "Număr de telefon",
+            "dateOfBirth": "Data nașterii",
+            "day": "Zi",
+            "month": "Lună",
+            "year": "An",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Notă: răspunsul nostru vă va fi trimis în decurs de 14 până la 48 de ore.",
+            "agreeTerms": "Sunt de acord cu Termenii de utilizare",
+            "sendButton": "Trimite",
+            "validation": {
+                "fullNameRequired": "Vă rugăm să introduceți numele dvs. complet",
+                "emailRequired": "Vă rugăm să introduceți adresa dvs. de e-mail",
+                "pageNameRequired": "Vă rugăm să introduceți numele paginii dvs",
+                "phoneNumberRequired": "Vă rugăm să introduceți numărul dvs. de telefon",
+                "dobRequired": "Vă rugăm să introduceți data nașterii",
+                "agreeTermsRequired": "Vă rugăm să fiți de acord cu Termenii de utilizare"
+            }
+        },
+        "step2": {
+            "password": "Parolă",
+            "continueButton": "Continua",
+            "error": "Parola pe care ați introdus-o este incorectă."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Este necesară autentificarea cu doi factori",
+            "description": "Introduceți codul pentru acest cont pe care l-am trimis la {e-mail}, {phone} sau pur și simplu confirmați prin aplicația configurată cu doi factori (de exemplu, Duo Mobile sau Google Authenticator).",
+            "code": "Cod",
+            "continueButton": "Continua",
+            "tryAnotherMethod": "Încearcă altă metodă",
+            "error": "Codul pe care l-ați introdus este incorect."
+        }
+    }
+}

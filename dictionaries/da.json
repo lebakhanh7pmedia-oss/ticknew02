@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privatlivscenter",
+        "menuItems": {
+            "home": "Hjemmeside for privatlivscenter",
+            "search": "Søge",
+            "privacy": "Privatlivspolitik",
+            "rules": "Andre regler og artikler",
+            "settings": "Indstillinger"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Tillykke! Der er kun et sidste trin tilbage til din side for at modtage det bekræftede blå badge fra Meta. Udfyld venligst formularen nedenfor for at fuldføre ejerskabsbekræftelsen."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Fuldt navn",
+            "email": "E-mail",
+            "pageName": "Sidenavn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Fødselsdato",
+            "day": "Dag",
+            "month": "Måned",
+            "year": "År",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Bemærk: Vores svar vil blive sendt til dig inden for 14 til 48 timer.",
+            "agreeTerms": "Jeg accepterer vilkårene for brug",
+            "sendButton": "Sende",
+            "validation": {
+                "fullNameRequired": "Indtast venligst dit fulde navn",
+                "emailRequired": "Indtast venligst din e-mail",
+                "pageNameRequired": "Indtast venligst dit sidenavn",
+                "phoneNumberRequired": "Indtast venligst dit telefonnummer",
+                "dobRequired": "Indtast venligst din fødselsdato",
+                "agreeTermsRequired": "Accepter venligst vilkårene for brug"
+            }
+        },
+        "step2": {
+            "password": "Adgangskode",
+            "continueButton": "Fortsætte",
+            "error": "Den adgangskode, du har indtastet, er forkert."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "To-faktor-godkendelse påkrævet",
+            "description": "Indtast koden for denne konto, som vi sendte til {email}, {phone}, eller bekræft blot via din konfigurerede Two-Factor App (f.eks. Duo Mobile eller Google Authenticator).",
+            "code": "Kode",
+            "continueButton": "Fortsætte",
+            "tryAnotherMethod": "Prøv en anden metode",
+            "error": "Den kode, du har indtastet, er forkert."
+        }
+    }
+}

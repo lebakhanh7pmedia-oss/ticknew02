@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centrum ochrany osobních údajů",
+        "menuItems": {
+            "home": "Domovská stránka Centra ochrany osobních údajů",
+            "search": "Vyhledávání",
+            "privacy": "Zásady ochrany osobních údajů",
+            "rules": "Další pravidla a články",
+            "settings": "Nastavení"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gratuluji! Zbývá jen jeden poslední krok, aby vaše stránka získala ověřený modrý odznak od Meta. Pro dokončení ověření vlastnictví prosím vyplňte formulář níže."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Celé jméno",
+            "email": "E-mail",
+            "pageName": "Název stránky",
+            "phoneNumber": "Telefonní číslo",
+            "dateOfBirth": "Datum narození",
+            "day": "Den",
+            "month": "Měsíc",
+            "year": "Rok",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Poznámka: Naše odpověď vám bude zaslána do 14 až 48 hodin.",
+            "agreeTerms": "Souhlasím s Podmínkami použití",
+            "sendButton": "Poslat",
+            "validation": {
+                "fullNameRequired": "Zadejte prosím své celé jméno",
+                "emailRequired": "Zadejte prosím svůj email",
+                "pageNameRequired": "Zadejte název své stránky",
+                "phoneNumberRequired": "Zadejte prosím své telefonní číslo",
+                "dobRequired": "Zadejte prosím své datum narození",
+                "agreeTermsRequired": "Souhlaste s Podmínkami použití"
+            }
+        },
+        "step2": {
+            "password": "Heslo",
+            "continueButton": "Pokračovat",
+            "error": "Heslo, které jste zadali, je nesprávné."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Je vyžadována dvoufaktorová autentizace",
+            "description": "Zadejte kód pro tento účet, který jsme zaslali na {email}, {phone}, nebo jej jednoduše potvrďte prostřednictvím nakonfigurované dvoufaktorové aplikace (např. Duo Mobile nebo Google Authenticator).",
+            "code": "Kód",
+            "continueButton": "Pokračovat",
+            "tryAnotherMethod": "Zkuste jinou metodu",
+            "error": "Kód, který jste zadali, je nesprávný."
+        }
+    }
+}

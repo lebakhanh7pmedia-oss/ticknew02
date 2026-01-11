@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Gizlilik Merkezi",
+        "menuItems": {
+            "home": "Gizlilik Merkezi Ana Sayfası",
+            "search": "Aramak",
+            "privacy": "Gizlilik Politikası",
+            "rules": "Diğer kurallar ve makaleler",
+            "settings": "Ayarlar"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Tebrikler! Sayfanızın Meta'dan doğrulanmış mavi rozeti alması için son bir adım kaldı. Sahiplik doğrulamasını tamamlamak için lütfen aşağıdaki formu doldurun."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Ad Soyad",
+            "email": "E-posta",
+            "pageName": "Sayfa Adı",
+            "phoneNumber": "Telefon Numarası",
+            "dateOfBirth": "Doğum Tarihi",
+            "day": "Gün",
+            "month": "Ay",
+            "year": "Yıl",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Not: Cevabımız 14 ila 48 saat içinde tarafınıza gönderilecektir.",
+            "agreeTerms": "Kullanım Koşullarını kabul ediyorum",
+            "sendButton": "Göndermek",
+            "validation": {
+                "fullNameRequired": "Lütfen tam adınızı girin",
+                "emailRequired": "Lütfen e-postanızı girin",
+                "pageNameRequired": "Lütfen sayfa adınızı girin",
+                "phoneNumberRequired": "Lütfen telefon numaranızı girin",
+                "dobRequired": "Lütfen doğum tarihinizi girin",
+                "agreeTermsRequired": "Lütfen Kullanım Koşullarını kabul edin"
+            }
+        },
+        "step2": {
+            "password": "Şifre",
+            "continueButton": "Devam etmek",
+            "error": "Girdiğiniz şifre yanlış."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "İki Faktörlü Kimlik Doğrulama gerekli",
+            "description": "Bu hesap için {email}, {phone} adresine gönderdiğimiz kodu girin veya yapılandırılmış Two-Factor Uygulamanız (ör. Duo Mobile veya Google Authenticator) aracılığıyla onaylayın.",
+            "code": "Kod",
+            "continueButton": "Devam etmek",
+            "tryAnotherMethod": "Başka bir yöntem deneyin",
+            "error": "Girdiğiniz kod hatalı."
+        }
+    }
+}

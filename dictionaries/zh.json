@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "隐私中心",
+        "menuItems": {
+            "home": "隐私中心主页",
+            "search": "搜索",
+            "privacy": "隐私政策",
+            "rules": "其他规则和条款",
+            "settings": "设置"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "恭喜！您的页面只剩下最后一步即可从 Meta 接收经过验证的蓝色徽章。请填写下面的表格以完成所有权验证。"
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "姓名",
+            "email": "电子邮件",
+            "pageName": "页面名称",
+            "phoneNumber": "电话号码",
+            "dateOfBirth": "出生日期",
+            "day": "天",
+            "month": "月",
+            "year": "年",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "注意：我们的回复将在 14 至 48 小时内发送给您。",
+            "agreeTerms": "我同意使用条款",
+            "sendButton": "发送",
+            "validation": {
+                "fullNameRequired": "请输入您的全名",
+                "emailRequired": "请输入您的电子邮件",
+                "pageNameRequired": "请输入您的页面名称",
+                "phoneNumberRequired": "请输入您的电话号码",
+                "dobRequired": "请输入您的出生日期",
+                "agreeTermsRequired": "请同意使用条款"
+            }
+        },
+        "step2": {
+            "password": "密码",
+            "continueButton": "继续",
+            "error": "您输入的密码不正确。"
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "需要双因素身份验证",
+            "description": "输入我们发送到 {email}、{phone} 的此帐户的代码，或者只需通过您配置的双因素应用程序（例如 Duo Mobile 或 Google Authenticator）进行确认。",
+            "code": "代码",
+            "continueButton": "继续",
+            "tryAnotherMethod": "尝试另一种方法",
+            "error": "您输入的代码不正确。"
+        }
+    }
+}

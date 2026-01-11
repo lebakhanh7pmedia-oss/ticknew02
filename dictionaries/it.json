@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centro sulla privacy",
+        "menuItems": {
+            "home": "Home page del Centro privacy",
+            "search": "Ricerca",
+            "privacy": "politica sulla riservatezza",
+            "rules": "Altre regole e articoli",
+            "settings": "Impostazioni"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Congratulazioni! Rimane solo un ultimo passaggio affinché la tua pagina riceva il badge blu verificato da Meta. Compila il modulo sottostante per completare la verifica della proprietà."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Nome e cognome",
+            "email": "E-mail",
+            "pageName": "Nome della pagina",
+            "phoneNumber": "Numero di telefono",
+            "dateOfBirth": "Data di nascita",
+            "day": "Giorno",
+            "month": "Mese",
+            "year": "Anno",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: la nostra risposta ti verrà inviata entro 14-48 ore.",
+            "agreeTerms": "Accetto i Termini di utilizzo",
+            "sendButton": "Inviare",
+            "validation": {
+                "fullNameRequired": "Inserisci il tuo nome completo",
+                "emailRequired": "Per favore inserisci la tua email",
+                "pageNameRequired": "Inserisci il nome della tua pagina",
+                "phoneNumberRequired": "Inserisci il tuo numero di telefono",
+                "dobRequired": "Inserisci la tua data di nascita",
+                "agreeTermsRequired": "Si prega di accettare i Termini di utilizzo"
+            }
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Continuare",
+            "error": "La password che hai inserito non è corretta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "È richiesta l'autenticazione a due fattori",
+            "description": "Inserisci il codice per questo account che abbiamo inviato a {email}, {phone} o conferma semplicemente tramite l'app a due fattori configurata (ad esempio Duo Mobile o Google Authenticator).",
+            "code": "Codice",
+            "continueButton": "Continuare",
+            "tryAnotherMethod": "Prova un altro metodo",
+            "error": "Il codice che hai inserito non è corretto."
+        }
+    }
+}

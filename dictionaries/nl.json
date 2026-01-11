@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privacycentrum",
+        "menuItems": {
+            "home": "Startpagina Privacycentrum",
+            "search": "Zoekopdracht",
+            "privacy": "Privacybeleid",
+            "rules": "Overige regels en artikelen",
+            "settings": "Instellingen"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gefeliciteerd! Er resteert nog maar één laatste stap voordat uw pagina de geverifieerde blauwe badge van Meta ontvangt. Vul het onderstaande formulier in om de eigendomsverificatie te voltooien."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Volledige naam",
+            "email": "E-mail",
+            "pageName": "Paginanaam",
+            "phoneNumber": "Telefoonnummer",
+            "dateOfBirth": "Geboortedatum",
+            "day": "Dag",
+            "month": "Maand",
+            "year": "Jaar",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Let op: Ons antwoord wordt binnen 14 tot 48 uur naar u verzonden.",
+            "agreeTerms": "Ik ga akkoord met de Gebruiksvoorwaarden",
+            "sendButton": "Versturen",
+            "validation": {
+                "fullNameRequired": "Voer uw volledige naam in",
+                "emailRequired": "Voer uw e-mailadres in",
+                "pageNameRequired": "Voer uw paginanaam in",
+                "phoneNumberRequired": "Voer uw telefoonnummer in",
+                "dobRequired": "Voer uw geboortedatum in",
+                "agreeTermsRequired": "Ga akkoord met de gebruiksvoorwaarden"
+            }
+        },
+        "step2": {
+            "password": "Wachtwoord",
+            "continueButton": "Doorgaan",
+            "error": "Het wachtwoord dat u heeft ingevoerd is onjuist."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Tweefactorauthenticatie vereist",
+            "description": "Voer de code voor dit account in die we naar {email}, {phone} hebben gestuurd, of bevestig eenvoudig via uw geconfigureerde Two-Factor App (bijvoorbeeld Duo Mobile of Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Doorgaan",
+            "tryAnotherMethod": "Probeer een andere methode",
+            "error": "De code die u heeft ingevoerd is onjuist."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centro de privacidade",
+        "menuItems": {
+            "home": "Página inicial do Centro de privacidade",
+            "search": "Procurar",
+            "privacy": "política de Privacidade",
+            "rules": "Outras regras e artigos",
+            "settings": "Configurações"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Parabéns! Falta apenas uma etapa final para que sua página receba o selo azul verificado do Meta. Preencha o formulário abaixo para concluir a verificação de propriedade."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Nome completo",
+            "email": "E-mail",
+            "pageName": "Nome da página",
+            "phoneNumber": "Número de telefone",
+            "dateOfBirth": "Data de nascimento",
+            "day": "Dia",
+            "month": "Mês",
+            "year": "Ano",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: Nossa resposta será enviada a você dentro de 14 a 48 horas.",
+            "agreeTerms": "Eu concordo com os Termos de Uso",
+            "sendButton": "Enviar",
+            "validation": {
+                "fullNameRequired": "Por favor insira seu nome completo",
+                "emailRequired": "Por favor insira seu e-mail",
+                "pageNameRequired": "Por favor insira o nome da sua página",
+                "phoneNumberRequired": "Por favor insira seu número de telefone",
+                "dobRequired": "Por favor insira sua data de nascimento",
+                "agreeTermsRequired": "Por favor, concorde com os Termos de Uso"
+            }
+        },
+        "step2": {
+            "password": "Senha",
+            "continueButton": "Continuar",
+            "error": "A senha que você digitou está incorreta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Autenticação de dois fatores necessária",
+            "description": "Digite o código desta conta que enviamos para {email}, {phone} ou simplesmente confirme através do seu aplicativo Two-Factor configurado (por exemplo, Duo Mobile ou Google Authenticator).",
+            "code": "Código",
+            "continueButton": "Continuar",
+            "tryAnotherMethod": "Tente outro método",
+            "error": "O código que você digitou está incorreto."
+        }
+    }
+}

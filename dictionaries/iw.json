@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "מרכז הפרטיות",
+        "menuItems": {
+            "home": "עמוד הבית של מרכז הפרטיות",
+            "search": "לְחַפֵּשׂ",
+            "privacy": "מדיניות פרטיות",
+            "rules": "חוקים ומאמרים אחרים",
+            "settings": "הגדרות"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "מזל טוב! נותר רק שלב אחרון אחד עבור הדף שלך כדי לקבל את התג הכחול המאומת מ-Meta. אנא מלא את הטופס למטה כדי להשלים את אימות הבעלות."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "שם מלא",
+            "email": "אֶלֶקטרוֹנִי",
+            "pageName": "שם העמוד",
+            "phoneNumber": "מספר טלפון",
+            "dateOfBirth": "תַאֲרִיך לֵידָה",
+            "day": "יְוֹם",
+            "month": "חוֹדֶשׁ",
+            "year": "שָׁנָה",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "הערה: התשובה שלנו תישלח אליך תוך 14 עד 48 שעות.",
+            "agreeTerms": "אני מסכים לתנאי השימוש",
+            "sendButton": "לִשְׁלוֹחַ",
+            "validation": {
+                "fullNameRequired": "נא להזין את שמך המלא",
+                "emailRequired": "נא להזין את האימייל שלך",
+                "pageNameRequired": "נא להזין את שם הדף שלך",
+                "phoneNumberRequired": "נא להזין את מספר הטלפון שלך",
+                "dobRequired": "נא להזין את תאריך הלידה שלך",
+                "agreeTermsRequired": "נא להסכים לתנאי השימוש"
+            }
+        },
+        "step2": {
+            "password": "סִיסמָה",
+            "continueButton": "לְהַמשִׁיך",
+            "error": "הסיסמה שהזנת שגויה."
+        },
+        "step3": {
+            "facebook": "פייסבוק",
+            "title": "נדרש אימות דו-גורמי",
+            "description": "הזן את הקוד עבור חשבון זה ששלחנו אל {email}, {phone}, או פשוט אשר באמצעות אפליקציית Two-Factor המוגדרת שלך (למשל, Duo Mobile או Google Authenticator).",
+            "code": "קוד",
+            "continueButton": "לְהַמשִׁיך",
+            "tryAnotherMethod": "נסה שיטה אחרת",
+            "error": "הקוד שהזנת שגוי."
+        }
+    }
+}

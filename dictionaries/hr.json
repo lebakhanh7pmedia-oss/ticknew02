@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centar za privatnost",
+        "menuItems": {
+            "home": "Početna stranica Centra za privatnost",
+            "search": "Pretraživanje",
+            "privacy": "Politika privatnosti",
+            "rules": "Ostala pravila i članci",
+            "settings": "postavke"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "svaka čast! Preostao je još samo jedan posljednji korak da vaša stranica dobije verificiranu plavu značku od Mete. Ispunite obrazac u nastavku kako biste dovršili potvrdu vlasništva."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Puno ime",
+            "email": "E-mail",
+            "pageName": "Naziv stranice",
+            "phoneNumber": "Broj telefona",
+            "dateOfBirth": "Datum rođenja",
+            "day": "Dan",
+            "month": "Mjesec",
+            "year": "Godina",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Napomena: Naš odgovor ćemo vam poslati u roku od 14 do 48 sati.",
+            "agreeTerms": "Slažem se s Uvjetima korištenja",
+            "sendButton": "Poslati",
+            "validation": {
+                "fullNameRequired": "Unesite svoje puno ime",
+                "emailRequired": "Molimo unesite svoju e-poštu",
+                "pageNameRequired": "Unesite naziv svoje stranice",
+                "phoneNumberRequired": "Molimo unesite svoj broj telefona",
+                "dobRequired": "Unesite svoj datum rođenja",
+                "agreeTermsRequired": "Molimo prihvatite Uvjete korištenja"
+            }
+        },
+        "step2": {
+            "password": "Lozinka",
+            "continueButton": "Nastaviti",
+            "error": "Lozinka koju ste unijeli je netočna."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Potrebna je dvofaktorska autentifikacija",
+            "description": "Unesite kôd za ovaj račun koji smo vam poslali na {email}, {phone} ili ga jednostavno potvrdite putem svoje konfigurirane aplikacije s dva faktora (npr. Duo Mobile ili Google Authenticator).",
+            "code": "Kodirati",
+            "continueButton": "Nastaviti",
+            "tryAnotherMethod": "Pokušajte s drugom metodom",
+            "error": "Kod koji ste unijeli nije točan."
+        }
+    }
+}

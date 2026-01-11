@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Personvernsenter",
+        "menuItems": {
+            "home": "Hjemmeside for personvernsenter",
+            "search": "Søk",
+            "privacy": "Personvernerklæring",
+            "rules": "Andre regler og artikler",
+            "settings": "Innstillinger"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gratulerer! Det er bare ett siste trinn igjen for siden din for å motta det bekreftede blå merket fra Meta. Fyll ut skjemaet nedenfor for å fullføre eierskapsbekreftelsen."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Fullt navn",
+            "email": "E-post",
+            "pageName": "Sidenavn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Fødselsdato",
+            "day": "Dag",
+            "month": "Måned",
+            "year": "År",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Merk: Vårt svar vil bli sendt til deg innen 14 til 48 timer.",
+            "agreeTerms": "Jeg godtar vilkårene for bruk",
+            "sendButton": "Sende",
+            "validation": {
+                "fullNameRequired": "Vennligst skriv inn ditt fulle navn",
+                "emailRequired": "Vennligst skriv inn e-postadressen din",
+                "pageNameRequired": "Vennligst skriv inn sidenavnet ditt",
+                "phoneNumberRequired": "Vennligst skriv inn telefonnummeret ditt",
+                "dobRequired": "Vennligst skriv inn fødselsdatoen din",
+                "agreeTermsRequired": "Vennligst godta vilkårene for bruk"
+            }
+        },
+        "step2": {
+            "password": "Passord",
+            "continueButton": "Fortsette",
+            "error": "Passordet du har skrevet inn er feil."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Tofaktorautentisering kreves",
+            "description": "Skriv inn koden for denne kontoen som vi sendte til {email}, {phone}, eller bekreft via den konfigurerte tofaktorappen din (f.eks. Duo Mobile eller Google Authenticator).",
+            "code": "Kode",
+            "continueButton": "Fortsette",
+            "tryAnotherMethod": "Prøv en annen metode",
+            "error": "Koden du har skrevet inn er feil."
+        }
+    }
+}

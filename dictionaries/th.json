@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "ศูนย์ความเป็นส่วนตัว",
+        "menuItems": {
+            "home": "หน้าแรกของศูนย์ความเป็นส่วนตัว",
+            "search": "ค้นหา",
+            "privacy": "นโยบายความเป็นส่วนตัว",
+            "rules": "กฎและบทความอื่น ๆ",
+            "settings": "การตั้งค่า"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "ยินดีด้วย! เหลือเพียงขั้นตอนสุดท้ายสำหรับเพจของคุณเพื่อรับป้ายสีน้ำเงินที่ได้รับการยืนยันจาก Meta โปรดกรอกแบบฟอร์มด้านล่างเพื่อยืนยันความเป็นเจ้าของให้เสร็จสิ้น"
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "ชื่อเต็ม",
+            "email": "อีเมล",
+            "pageName": "ชื่อเพจ",
+            "phoneNumber": "หมายเลขโทรศัพท์",
+            "dateOfBirth": "วันเกิด",
+            "day": "วัน",
+            "month": "เดือน",
+            "year": "ปี",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "หมายเหตุ: การตอบกลับของเราจะถูกส่งถึงคุณภายใน 14 ถึง 48 ชั่วโมง",
+            "agreeTerms": "ฉันยอมรับข้อกำหนดการใช้งาน",
+            "sendButton": "ส่ง",
+            "validation": {
+                "fullNameRequired": "กรุณากรอกชื่อเต็มของคุณ",
+                "emailRequired": "กรุณากรอกอีเมล์ของคุณ",
+                "pageNameRequired": "กรุณากรอกชื่อเพจของคุณ",
+                "phoneNumberRequired": "กรุณากรอกหมายเลขโทรศัพท์ของคุณ",
+                "dobRequired": "กรุณากรอกวันเกิดของคุณ",
+                "agreeTermsRequired": "โปรดยอมรับข้อกำหนดการใช้งาน"
+            }
+        },
+        "step2": {
+            "password": "รหัสผ่าน",
+            "continueButton": "ดำเนินการต่อ",
+            "error": "รหัสผ่านที่คุณป้อนไม่ถูกต้อง"
+        },
+        "step3": {
+            "facebook": "เฟสบุ๊ค",
+            "title": "จำเป็นต้องมีการรับรองความถูกต้องด้วยสองปัจจัย",
+            "description": "ป้อนรหัสสำหรับบัญชีนี้ที่เราส่งไปที่ {email}, {phone} หรือเพียงยืนยันผ่านแอป Two-Factor ที่กำหนดค่าไว้ (เช่น Duo Mobile หรือ Google Authenticator)",
+            "code": "รหัส",
+            "continueButton": "ดำเนินการต่อ",
+            "tryAnotherMethod": "ลองวิธีอื่น",
+            "error": "รหัสที่คุณป้อนไม่ถูกต้อง"
+        }
+    }
+}

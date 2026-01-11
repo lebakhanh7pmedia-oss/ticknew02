@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Adatvédelmi központ",
+        "menuItems": {
+            "home": "Az adatvédelmi központ kezdőlapja",
+            "search": "Keresés",
+            "privacy": "Adatvédelmi szabályzat",
+            "rules": "Egyéb szabályok és cikkek",
+            "settings": "Beállítások elemre"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gratulálok! Már csak egy utolsó lépés van hátra ahhoz, hogy oldala megkapja az ellenőrzött kék jelvényt a Metától. Kérjük, töltse ki az alábbi űrlapot a tulajdonjog igazolásának befejezéséhez."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Teljes név",
+            "email": "Email",
+            "pageName": "Oldal neve",
+            "phoneNumber": "Telefonszám",
+            "dateOfBirth": "Születési idő",
+            "day": "Nap",
+            "month": "Hónap",
+            "year": "Év",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Megjegyzés: Válaszunkat 14–48 órán belül elküldjük Önnek.",
+            "agreeTerms": "Elfogadom a Felhasználási feltételeket",
+            "sendButton": "Elküld",
+            "validation": {
+                "fullNameRequired": "Kérjük, adja meg a teljes nevét",
+                "emailRequired": "Kérjük, adja meg e-mail címét",
+                "pageNameRequired": "Kérjük, adja meg az oldal nevét",
+                "phoneNumberRequired": "Kérjük, adja meg telefonszámát",
+                "dobRequired": "Kérjük, adja meg születési dátumát",
+                "agreeTermsRequired": "Kérjük, fogadja el a Felhasználási feltételeket"
+            }
+        },
+        "step2": {
+            "password": "Jelszó",
+            "continueButton": "Folytatás",
+            "error": "A megadott jelszó helytelen."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Kéttényezős hitelesítés szükséges",
+            "description": "Adja meg a fiókhoz tartozó kódot, amelyet az {email}, {phone} címre küldtünk, vagy egyszerűen erősítse meg a konfigurált kéttényezős alkalmazáson keresztül (pl. Duo Mobile vagy Google Authenticator).",
+            "code": "Kód",
+            "continueButton": "Folytatás",
+            "tryAnotherMethod": "Próbáljon ki egy másik módszert",
+            "error": "A megadott kód helytelen."
+        }
+    }
+}

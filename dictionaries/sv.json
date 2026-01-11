@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Sekretesscenter",
+        "menuItems": {
+            "home": "Sekretesscenters hemsida",
+            "search": "Söka",
+            "privacy": "Sekretesspolicy",
+            "rules": "Andra regler och artiklar",
+            "settings": "Inställningar"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Grattis! Det finns bara ett sista steg kvar för din sida att få det verifierade blå märket från Meta. Vänligen fyll i formuläret nedan för att slutföra verifieringen av äganderätten."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Fullständigt namn",
+            "email": "E-post",
+            "pageName": "Sidnamn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Födelsedatum",
+            "day": "Dag",
+            "month": "Månad",
+            "year": "År",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Obs: Vårt svar kommer att skickas till dig inom 14 till 48 timmar.",
+            "agreeTerms": "Jag godkänner användarvillkoren",
+            "sendButton": "Skicka",
+            "validation": {
+                "fullNameRequired": "Vänligen ange ditt fullständiga namn",
+                "emailRequired": "Vänligen ange din e-postadress",
+                "pageNameRequired": "Vänligen ange ditt sidnamn",
+                "phoneNumberRequired": "Vänligen ange ditt telefonnummer",
+                "dobRequired": "Ange ditt födelsedatum",
+                "agreeTermsRequired": "Vänligen godkänn användarvillkoren"
+            }
+        },
+        "step2": {
+            "password": "Lösenord",
+            "continueButton": "Fortsätta",
+            "error": "Lösenordet du har angett är felaktigt."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Tvåfaktorsautentisering krävs",
+            "description": "Ange koden för det här kontot som vi skickade till {email}, {phone}, eller bekräfta helt enkelt via din konfigurerade tvåfaktorsapp (t.ex. Duo Mobile eller Google Authenticator).",
+            "code": "Koda",
+            "continueButton": "Fortsätta",
+            "tryAnotherMethod": "Prova en annan metod",
+            "error": "Koden du har angett är felaktig."
+        }
+    }
+}

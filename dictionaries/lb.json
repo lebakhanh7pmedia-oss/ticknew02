@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privatsphär Center",
+        "menuItems": {
+            "home": "Privatsphär Center Home Page",
+            "search": "Sichen",
+            "privacy": "Privatsphär Politik",
+            "rules": "Aner Regelen an Artikelen",
+            "settings": "Astellungen"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gratulatioun! Et gëtt nëmmen ee leschte Schrëtt lénks fir Är Säit fir de verifizéierte bloe Badge vu Meta ze kréien. Fëllt w.e.g. de Formulaire hei ënnen aus fir d'Eegeschaftsverifizéierung ofzeschléissen."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Ganzen numm",
+            "email": "E-Mail",
+            "pageName": "Säit Numm",
+            "phoneNumber": "Telefonsnummer",
+            "dateOfBirth": "Gebuertsdatum",
+            "day": "Dag",
+            "month": "Mount",
+            "year": "Joer",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Notiz: Eis Äntwert gëtt Iech bannent 14 bis 48 Stonnen geschéckt.",
+            "agreeTerms": "Ech averstanen op d'Benotzungsconditiounen",
+            "sendButton": "Schécken",
+            "validation": {
+                "fullNameRequired": "Gitt weg Äre ganzen Numm",
+                "emailRequired": "Gitt weg Är Email",
+                "pageNameRequired": "Gitt w.e.g. Äre Säitnumm un",
+                "phoneNumberRequired": "Gitt weg Är Telefonsnummer",
+                "dobRequired": "Gitt weg Äre Gebuertsdatum",
+                "agreeTermsRequired": "Gitt w.e.g. d'Benotzungsbedéngungen averstanen"
+            }
+        },
+        "step2": {
+            "password": "Passwuert",
+            "continueButton": "Fuert weider",
+            "error": "D'Passwuert dat Dir aginn hutt ass falsch."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Zwee-Faktor Authentifikatioun erfuerderlech",
+            "description": "Gitt de Code fir dëse Kont un dee mir op {Email}, {Telefon} geschéckt hunn, oder bestätegen einfach iwwer Är konfiguréiert Two-Factor App (zB Duo Mobile oder Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Fuert weider",
+            "tryAnotherMethod": "Probéiert eng aner Method",
+            "error": "De Code deen Dir aginn hutt ass falsch."
+        }
+    }
+}

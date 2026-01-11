@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Ċentru tal-Privatezza",
+        "menuItems": {
+            "home": "Home Page taċ-Ċentru tal-Privatezza",
+            "search": "Fittex",
+            "privacy": "Politika ta' Privatezza",
+            "rules": "Regoli u artikoli oħra",
+            "settings": "Settings"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Prosit! Fadal pass finali wieħed biss biex il-paġna tiegħek tirċievi l-badge blu verifikata mingħand Meta. Jekk jogħġbok imla l-formola hawn taħt biex tlesti l-verifika tas-sjieda."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Isem Sħiħ",
+            "email": "Email",
+            "pageName": "Isem il-Paġna",
+            "phoneNumber": "Numru tat-Telefon",
+            "dateOfBirth": "Data tat-Twelid",
+            "day": "Jum",
+            "month": "Xahar",
+            "year": "Sena",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: It-tweġiba tagħna tintbagħat lilek fi żmien 14 sa 48 siegħa.",
+            "agreeTerms": "Naqbel mat-Termini tal-Użu",
+            "sendButton": "Ibgħat",
+            "validation": {
+                "fullNameRequired": "Jekk jogħġbok daħħal l-isem sħiħ tiegħek",
+                "emailRequired": "Jekk jogħġbok daħħal l-email tiegħek",
+                "pageNameRequired": "Jekk jogħġbok daħħal l-isem tal-paġna tiegħek",
+                "phoneNumberRequired": "Jekk jogħġbok daħħal in-numru tat-telefon tiegħek",
+                "dobRequired": "Jekk jogħġbok daħħal id-data tat-twelid tiegħek",
+                "agreeTermsRequired": "Jekk jogħġbok taqbel mat-Termini tal-Użu"
+            }
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Kompli",
+            "error": "Il-password li daħħalt mhix korretta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Awtentikazzjoni b'żewġ fatturi meħtieġa",
+            "description": "Daħħal il-kodiċi għal dan il-kont li bgħatna lil {email}, {telefon}, jew sempliċiment ikkonferma permezz tal-App Konfigurata ta' Żewġ Fatturi tiegħek (eż. Duo Mobile jew Google Authenticator).",
+            "code": "Kodiċi",
+            "continueButton": "Kompli",
+            "tryAnotherMethod": "Ipprova metodu ieħor",
+            "error": "Il-kodiċi li daħħalt mhux korrett."
+        }
+    }
+}

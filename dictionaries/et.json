@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privaatsuskeskus",
+        "menuItems": {
+            "home": "Privaatsuskeskuse avaleht",
+            "search": "Otsi",
+            "privacy": "Privaatsuspoliitika",
+            "rules": "Muud reeglid ja artiklid",
+            "settings": "Seaded"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Palju õnne! Teie lehele on jäänud vaid üks viimane samm, et saada Metalt kinnitatud sinine märk. Omandiõiguse kinnitamise lõpuleviimiseks täitke allolev vorm."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Täisnimi",
+            "email": "Meil",
+            "pageName": "Lehekülje nimi",
+            "phoneNumber": "Telefoninumber",
+            "dateOfBirth": "Sünnikuupäev",
+            "day": "päev",
+            "month": "Kuu",
+            "year": "aasta",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Märkus. Meie vastus saadetakse teile 14–48 tunni jooksul.",
+            "agreeTerms": "Nõustun kasutustingimustega",
+            "sendButton": "Saada",
+            "validation": {
+                "fullNameRequired": "Palun sisestage oma täisnimi",
+                "emailRequired": "Palun sisesta oma email",
+                "pageNameRequired": "Palun sisesta oma lehe nimi",
+                "phoneNumberRequired": "Palun sisesta oma telefoninumber",
+                "dobRequired": "Palun sisestage oma sünnikuupäev",
+                "agreeTermsRequired": "Nõustuge kasutustingimustega"
+            }
+        },
+        "step2": {
+            "password": "Parool",
+            "continueButton": "Jätka",
+            "error": "Sisestatud parool on vale."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Vajalik on kahefaktoriline autentimine",
+            "description": "Sisestage selle konto kood, mille saatsime aadressile {email}, {phone}, või kinnitage lihtsalt oma konfigureeritud kahefaktorilise rakenduse (nt Duo Mobile või Google Authenticator) kaudu.",
+            "code": "Kood",
+            "continueButton": "Jätka",
+            "tryAnotherMethod": "Proovige teist meetodit",
+            "error": "Sisestatud kood on vale."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centrum prywatności",
+        "menuItems": {
+            "home": "Strona główna Centrum prywatności",
+            "search": "Szukaj",
+            "privacy": "Polityka prywatności",
+            "rules": "Inne zasady i artykuły",
+            "settings": "Ustawienia"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gratulacje! Pozostał już tylko ostatni krok, aby Twoja strona otrzymała zweryfikowaną niebieską plakietkę od Meta. Wypełnij poniższy formularz, aby dokończyć weryfikację własności."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Pełne imię i nazwisko",
+            "email": "E-mail",
+            "pageName": "Nazwa strony",
+            "phoneNumber": "Numer telefonu",
+            "dateOfBirth": "Data urodzenia",
+            "day": "Dzień",
+            "month": "Miesiąc",
+            "year": "Rok",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Uwaga: nasza odpowiedź zostanie wysłana w ciągu 14 do 48 godzin.",
+            "agreeTerms": "Zgadzam się z Warunkami użytkowania",
+            "sendButton": "Wysłać",
+            "validation": {
+                "fullNameRequired": "Proszę wpisać swoje pełne imię i nazwisko",
+                "emailRequired": "Proszę podać swój adres e-mail",
+                "pageNameRequired": "Proszę wpisać nazwę swojej strony",
+                "phoneNumberRequired": "Proszę podać swój numer telefonu",
+                "dobRequired": "Proszę podać swoją datę urodzenia",
+                "agreeTermsRequired": "Proszę zaakceptować Warunki użytkowania"
+            }
+        },
+        "step2": {
+            "password": "Hasło",
+            "continueButton": "Kontynuować",
+            "error": "Wprowadzone hasło jest nieprawidłowe."
+        },
+        "step3": {
+            "facebook": "Facebooku",
+            "title": "Wymagane uwierzytelnianie dwuskładnikowe",
+            "description": "Wpisz kod do tego konta, który wysłaliśmy na adres {email}, {phone} lub po prostu potwierdź go za pomocą skonfigurowanej aplikacji Two-Factor (np. Duo Mobile lub Google Authenticator).",
+            "code": "Kod",
+            "continueButton": "Kontynuować",
+            "tryAnotherMethod": "Wypróbuj inną metodę",
+            "error": "Wprowadzony kod jest nieprawidłowy."
+        }
+    }
+}

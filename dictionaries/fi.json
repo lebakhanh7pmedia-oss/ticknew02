@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Tietosuojakeskus",
+        "menuItems": {
+            "home": "Tietosuojakeskuksen kotisivu",
+            "search": "Haku",
+            "privacy": "Tietosuojakäytäntö",
+            "rules": "Muut säännöt ja artikkelit",
+            "settings": "Asetukset"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Onnittelut! Jäljellä on vain yksi viimeinen vaihe, jotta sivusi saa Metan vahvistetun sinisen merkin. Viimeistele omistajuuden vahvistaminen täyttämällä alla oleva lomake."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Koko nimi",
+            "email": "Sähköposti",
+            "pageName": "Sivun nimi",
+            "phoneNumber": "Puhelinnumero",
+            "dateOfBirth": "Syntymäaika",
+            "day": "Päivä",
+            "month": "Kuukausi",
+            "year": "vuosi",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Huomautus: Vastauksemme lähetetään sinulle 14–48 tunnin kuluessa.",
+            "agreeTerms": "Hyväksyn käyttöehdot",
+            "sendButton": "Lähetä",
+            "validation": {
+                "fullNameRequired": "Kirjoita koko nimesi",
+                "emailRequired": "Anna sähköpostiosoitteesi",
+                "pageNameRequired": "Anna sivusi nimi",
+                "phoneNumberRequired": "Anna puhelinnumerosi",
+                "dobRequired": "Anna syntymäaikasi",
+                "agreeTermsRequired": "Hyväksy käyttöehdot"
+            }
+        },
+        "step2": {
+            "password": "Salasana",
+            "continueButton": "Jatkaa",
+            "error": "Antamasi salasana on väärä."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Kaksitekijäinen todennus vaaditaan",
+            "description": "Anna tämän tilin koodi, jonka lähetimme osoitteeseen {email}, {phone}, tai vahvista vain määritetyn kaksitekijäsovelluksen (esim. Duo Mobile tai Google Authenticator) kautta.",
+            "code": "Koodi",
+            "continueButton": "Jatkaa",
+            "tryAnotherMethod": "Kokeile toista menetelmää",
+            "error": "Syöttämäsi koodi on virheellinen."
+        }
+    }
+}

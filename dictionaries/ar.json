@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "مركز الخصوصية",
+        "menuItems": {
+            "home": "الصفحة الرئيسية لمركز الخصوصية",
+            "search": "يبحث",
+            "privacy": "سياسة الخصوصية",
+            "rules": "قواعد ومقالات أخرى",
+            "settings": "إعدادات"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "تهانينا! لم يتبق سوى خطوة أخيرة واحدة لصفحتك لتلقي الشارة الزرقاء التي تم التحقق منها من Meta. يرجى ملء النموذج أدناه لإكمال التحقق من الملكية."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "الاسم الكامل",
+            "email": "بريد إلكتروني",
+            "pageName": "اسم الصفحة",
+            "phoneNumber": "رقم التليفون",
+            "dateOfBirth": "تاريخ الميلاد",
+            "day": "يوم",
+            "month": "شهر",
+            "year": "سنة",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "ملاحظة: سيتم إرسال ردنا إليك خلال 14 إلى 48 ساعة.",
+            "agreeTerms": "أنا أوافق على شروط الاستخدام",
+            "sendButton": "يرسل",
+            "validation": {
+                "fullNameRequired": "الرجاء إدخال اسمك الكامل",
+                "emailRequired": "الرجاء إدخال البريد الإلكتروني الخاص بك",
+                "pageNameRequired": "الرجاء إدخال اسم صفحتك",
+                "phoneNumberRequired": "الرجاء إدخال رقم هاتفك",
+                "dobRequired": "الرجاء إدخال تاريخ ميلادك",
+                "agreeTermsRequired": "يرجى الموافقة على شروط الاستخدام"
+            }
+        },
+        "step2": {
+            "password": "كلمة المرور",
+            "continueButton": "يكمل",
+            "error": "كلمة المرور التي قمت بإدخالها غير صحيحة."
+        },
+        "step3": {
+            "facebook": "فيسبوك",
+            "title": "المصادقة الثنائية مطلوبة",
+            "description": "أدخل رمز هذا الحساب الذي أرسلناه إلى {email}، أو {phone}، أو قم ببساطة بالتأكيد عبر تطبيق Two-Factor الذي تم تكوينه (مثل Duo Mobile أو Google Authenticator).",
+            "code": "شفرة",
+            "continueButton": "يكمل",
+            "tryAnotherMethod": "جرب طريقة أخرى",
+            "error": "الرمز الذي قمت بإدخاله غير صحيح."
+        }
+    }
+}

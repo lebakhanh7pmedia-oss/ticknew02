@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Privatumo centras",
+        "menuItems": {
+            "home": "Privatumo centro pagrindinis puslapis",
+            "search": "Ieškoti",
+            "privacy": "Privatumo politika",
+            "rules": "Kitos taisyklės ir straipsniai",
+            "settings": "Nustatymai"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Sveikiname! Liko tik vienas paskutinis veiksmas, kad jūsų puslapis gautų patvirtintą mėlyną ženklelį iš Meta. Norėdami užbaigti nuosavybės patvirtinimą, užpildykite toliau pateiktą formą."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Pilnas vardas",
+            "email": "El. paštas",
+            "pageName": "Puslapio pavadinimas",
+            "phoneNumber": "Telefono numeris",
+            "dateOfBirth": "Gimimo data",
+            "day": "Diena",
+            "month": "Mėnuo",
+            "year": "Metai",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Pastaba: mūsų atsakymas bus išsiųstas jums per 14–48 valandas.",
+            "agreeTerms": "Sutinku su naudojimo sąlygomis",
+            "sendButton": "Siųsti",
+            "validation": {
+                "fullNameRequired": "Įveskite savo vardą ir pavardę",
+                "emailRequired": "Įveskite savo el",
+                "pageNameRequired": "Įveskite savo puslapio pavadinimą",
+                "phoneNumberRequired": "Įveskite savo telefono numerį",
+                "dobRequired": "Įveskite savo gimimo datą",
+                "agreeTermsRequired": "Prašome sutikti su naudojimo sąlygomis"
+            }
+        },
+        "step2": {
+            "password": "Slaptažodis",
+            "continueButton": "Tęsti",
+            "error": "Įvestas slaptažodis yra neteisingas."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Reikalingas dviejų faktorių autentifikavimas",
+            "description": "Įveskite šios paskyros kodą, kurį išsiuntėme {email}, {phone}, arba tiesiog patvirtinkite naudodami sukonfigūruotą dviejų faktorių programą (pvz., „Duo Mobile“ arba „Google Authenticator“).",
+            "code": "Kodas",
+            "continueButton": "Tęsti",
+            "tryAnotherMethod": "Išbandykite kitą metodą",
+            "error": "Įvestas kodas yra neteisingas."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Pusat Privasi",
+        "menuItems": {
+            "home": "Halaman Utama Pusat Privasi",
+            "search": "Cari",
+            "privacy": "Dasar Privasi",
+            "rules": "Peraturan dan artikel lain",
+            "settings": "tetapan"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "tahniah! Hanya tinggal satu langkah terakhir untuk halaman anda menerima lencana biru yang disahkan daripada Meta. Sila isi borang di bawah untuk melengkapkan pengesahan pemilikan."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Nama Penuh",
+            "email": "E-mel",
+            "pageName": "Nama Halaman",
+            "phoneNumber": "Nombor Telefon",
+            "dateOfBirth": "Tarikh Lahir",
+            "day": "Hari",
+            "month": "bulan",
+            "year": "tahun",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: Balasan kami akan dihantar kepada anda dalam masa 14 hingga 48 jam.",
+            "agreeTerms": "Saya bersetuju menerima Syarat Penggunaan",
+            "sendButton": "Hantar",
+            "validation": {
+                "fullNameRequired": "Sila masukkan nama penuh anda",
+                "emailRequired": "Sila masukkan e-mel anda",
+                "pageNameRequired": "Sila masukkan nama halaman anda",
+                "phoneNumberRequired": "Sila masukkan nombor telefon anda",
+                "dobRequired": "Sila masukkan tarikh lahir anda",
+                "agreeTermsRequired": "Sila bersetuju dengan Terma Penggunaan"
+            }
+        },
+        "step2": {
+            "password": "Kata laluan",
+            "continueButton": "Teruskan",
+            "error": "Kata laluan yang anda masukkan adalah salah."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Pengesahan Dua Faktor diperlukan",
+            "description": "Masukkan kod untuk akaun ini yang kami hantar ke {email}, {phone}, atau hanya sahkan melalui Apl Dua Faktor anda yang dikonfigurasikan (cth. Duo Mobile atau Google Authenticator).",
+            "code": "Kod",
+            "continueButton": "Teruskan",
+            "tryAnotherMethod": "Cuba kaedah lain",
+            "error": "Kod yang anda masukkan tidak betul."
+        }
+    }
+}

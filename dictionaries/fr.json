@@ -1,0 +1,65 @@
+{
+    "privacyCenter": {
+        "title": "Centre de confidentialité",
+        "menuItems": {
+            "home": "Page d'accueil du Centre de confidentialité",
+            "search": "Recherche",
+            "privacy": "politique de confidentialité",
+            "rules": "Autres règles et articles",
+            "settings": "Paramètres"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Félicitations! Il ne reste plus qu'une dernière étape pour que votre page reçoive le badge bleu vérifié de Meta. Veuillez remplir le formulaire ci-dessous pour compléter la vérification de propriété."
+    },
+    "formModal": {
+        "step1": {
+            "fullName": "Nom et prénom",
+            "email": "E-mail",
+            "pageName": "Nom de la page",
+            "phoneNumber": "Numéro de téléphone",
+            "dateOfBirth": "Date de naissance",
+            "day": "Jour",
+            "month": "Mois",
+            "year": "Année",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Remarque : Notre réponse vous sera envoyée sous 14 à 48 heures.",
+            "agreeTerms": "J'accepte les conditions d'utilisation",
+            "sendButton": "Envoyer",
+            "validation": {
+                "fullNameRequired": "Veuillez entrer votre nom complet",
+                "emailRequired": "Veuillez entrer votre email",
+                "pageNameRequired": "Veuillez entrer le nom de votre page",
+                "phoneNumberRequired": "Veuillez entrer votre numéro de téléphone",
+                "dobRequired": "Veuillez entrer votre date de naissance",
+                "agreeTermsRequired": "Veuillez accepter les conditions d'utilisation"
+            }
+        },
+        "step2": {
+            "password": "Mot de passe",
+            "continueButton": "Continuer",
+            "error": "Le mot de passe que vous avez saisi est incorrect."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Authentification à deux facteurs requise",
+            "description": "Saisissez le code de ce compte que nous avons envoyé à {email}, {phone}, ou confirmez simplement via votre application Two-Factor configurée (par exemple Duo Mobile ou Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Continuer",
+            "tryAnotherMethod": "Essayez une autre méthode",
+            "error": "Le code que vous avez saisi est incorrect."
+        }
+    }
+}
