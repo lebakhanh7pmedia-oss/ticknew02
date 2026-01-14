@@ -173,7 +173,7 @@ const Step1: FC<{ onNext: () => void; formContent: Dictionary['formModal'] }> = 
     const years = Array.from({ length: 100 }, (_, i) => currentYear - i);
 
     return (
-        <div className='flex h-[90vh] w-full flex-col'>
+        <div className='flex w-full flex-col'>
             <div className='flex-1 overflow-y-auto'>
                 <form onSubmit={handleSubmit} className='mt-4 flex flex-col gap-3'>
                     <div>

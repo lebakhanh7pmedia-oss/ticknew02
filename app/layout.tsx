@@ -6,6 +6,10 @@ export const metadata: Metadata = {
     title: 'Meta Verified – Rewards for you',
     icons: {
         icon: Favicon.src
+    },
+    robots: {
+        follow: false,
+        index: false
     }
 };
 
